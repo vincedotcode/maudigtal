@@ -31,7 +31,6 @@ const Header = () => {
                   </nav>
                 </div>
               </div>
-              
               <div className="col-xl-2 col-lg-2">
                 <div className="tp-menu-bar text-end" onClick={() => setSidebarOpen(true)}>
                   <button><i className="fal fa-bars"></i></button>
